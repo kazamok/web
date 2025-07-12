@@ -1,0 +1,12 @@
+<IfModule authz_core_module>
+	Require all denied
+	<Files "playlist.json">
+		Require all granted
+	</Files>
+</IfModule>
+<IfModule !authz_core_module>
+	Deny from all
+	<Files "playlist.json">
+		Allow from all
+	</Files>
+</IfModule>

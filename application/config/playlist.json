@@ -1,0 +1,42 @@
+[
+    {
+        "title": "Reign Of Chaos",
+        "src": "template/battleforazeroth/audio/01 Reign Of Chaos.mp3"
+    },
+    {
+        "title": "Lion's Pride",
+        "src": "template/battleforazeroth/audio/01. Lion's Pride.mp3"
+    },
+    {
+        "title": "Reign of Chaos (Main Title)",
+        "src": "template/battleforazeroth/audio/12. Reign of Chaos (Main Title).mp3"
+    },
+    {
+        "title": "Hellfire",
+        "src": "template/battleforazeroth/audio/17. Hellfire.mp3"
+    },
+    {
+        "title": "Doom",
+        "src": "template/battleforazeroth/audio/32 Doom.mp3"
+    },
+    {
+        "title": "The Frozen Throne",
+        "src": "template/battleforazeroth/audio/36 The Frozen Throne.mp3"
+    },
+    {
+        "title": "Illidan",
+        "src": "template/battleforazeroth/audio/40 Illidan.mp3"
+    },
+    {
+        "title": "Arthas",
+        "src": "template/battleforazeroth/audio/41 Arthas.mp3"
+    },
+    {
+        "title": "The Lich King",
+        "src": "template/battleforazeroth/audio/42 The Lich King.mp3"
+    },
+    {
+        "title": "Old School Orc Theme",
+        "src": "template/battleforazeroth/audio/43 Old School Orc Theme.mp3"
+    }
+]
